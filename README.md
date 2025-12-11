@@ -1,5 +1,4 @@
-# Data & BI Portfolio
-
+# Welcome to My Data & BI Portfolio
 Welcome to my portfolio project dedicated to Data Analytics and Business Intelligence.  
 My name is **Iryna Levynska**, and this repository is my space for learning, practice, and early-stage projects.  
 These works reflect the skills I am currently developing and my ongoing path in the field of data analytics.

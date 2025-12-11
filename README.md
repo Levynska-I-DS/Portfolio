@@ -23,7 +23,7 @@ Here you will find my projects, certificates, and professional background.
 <table>
 <tr>
 <td width="200">
-  <img src="images/event_dashboard.png" width="180" alt="Event Management Dashboard"/>
+  <img src="images/event_dashboard_1.png" width="180" alt="Event Management Dashboard"/>
 </td>
 <td>
 ### Event Management Dashboard – Power BI

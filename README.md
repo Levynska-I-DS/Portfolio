@@ -9,9 +9,9 @@ Here you will find my projects, certificates, and professional background.
 ---
 
 ## 📬 Contact
-**Email:** yourmail@example.com  
-**LinkedIn:** [your LinkedIn link here](#)  
-**Website / Portfolio:** [yourdomain.com](#)  
+**Email:** mymail@example.com  
+**LinkedIn:** [my LinkedIn link here](#)  
+**Website / Portfolio:** [mydomain.com](#)  
 
 ---
 

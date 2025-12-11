@@ -160,7 +160,7 @@ Exploratory data analysis using SQL and visual reporting in Power BI.
   Data analysis, Machine Learning, Python  
 
 - **Master of Science – Physics, Taras Shevchenko National University, Luhansk (2005–2006)**  
-- **Bachelor of Science – Physics / Teaching, Taras Shevchenko National University, Luhansk (2001–2006)**  
+- **Bachelor of Science – Physics, Taras Shevchenko National University, Luhansk (2001–2006)**  
 
 ---
 

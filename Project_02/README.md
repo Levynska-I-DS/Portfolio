@@ -16,8 +16,7 @@ Dies ist ein interaktives Power BI Dashboard zur Analyse von Vereinsveranstaltun
 Hier ist das Video des Dashboards: [Video-Link](video.mp4)
 
 ## 📷 Screenshots
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
-
+![Screenshot 1](../images/screenshot1.png)
+![Screenshot 2](../images/screenshot2.png)
+![Screenshot 3](../images/screenshot3.png)
 

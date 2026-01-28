@@ -77,28 +77,10 @@ Interactive dashboard analyzing attendance, trends, and key event KPIs.
 </tr>
 </table>
 
+
 ---
 
 <!-- Project 2 -->
-<table>
-<tr>
-<td width="200">
-  <img src="images/churn_analysis.png" width="180" alt="Churn Analysis"/>
-</td>
-<td>
-
-### Churn Analysis – Python + Machine Learning
-Customer churn prediction model with feature engineering and classification models.  
-**Tech:** Python, Random Forest, XGBoost, SHAP  
-**Link:** [Project repository](#)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Project 3 -->
 <table>
 <tr>
 <td width="200">
@@ -115,43 +97,6 @@ Content-based and collaborative filtering recommendation system.
 </tr>
 </table>
 
----
-
-<!-- Project 4 -->
-<table>
-<tr>
-<td width="200">
-  <img src="images/used_car_classification.png" width="180" alt="Used Car Classification"/>
-</td>
-<td>
-
-### Used Car Purchase Classification – ML (Imbalanced Data)
-Classification model using SMOTE, LightGBM, and performance optimization.  
-**Tech:** Python, LightGBM, Scikit-Learn  
-**Link:** [Project repository](#)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Project 5 -->
-<table>
-<tr>
-<td width="200">
-  <img src="images/flight_delay_analysis.png" width="180" alt="Flight Delay Analysis"/>
-</td>
-<td>
-
-### Flight Delay Analysis – SQL + Power BI
-Exploratory data analysis using SQL and visual reporting in Power BI.  
-**Tech:** SQL, Power BI, ETL  
-**Link:** [Project repository](#)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -179,4 +124,3 @@ Exploratory data analysis using SQL and visual reporting in Power BI.
 
 Thank you for visiting!  
 If you’re interested in my projects or would like to collaborate, feel free to reach out.
-

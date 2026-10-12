@@ -51,8 +51,8 @@ This repository serves as my personal space for:
 
 ## 🌐 Contacts
 
-- **Email:**  
-- **LinkedIn:**  
+- **LinkedIn:** [iryna-levynska](https://www.linkedin.com/in/iryna-levynska-a424471ba)  
+- **Portfolio website:** [levynska-i-ds.github.io](https://levynska-i-ds.github.io/)  
 
 ---
 
@@ -68,10 +68,10 @@ This repository serves as my personal space for:
 </td>
 <td>
   
-### Event Management Dashboard – Power BI
-Interactive dashboard analyzing attendance, trends, and key event KPIs.  
-**Tech:** Power BI, DAX, Data Modeling  
-**Link:** [Project repository](#)
+### Event Analysis for a Family Club – Power BI
+Registrations, effect of reminders and budget for seven club events (anonymised data).  
+**Tech:** Power BI, DAX, SQL Server, data modelling  
+**Link:** [Project_02](Project_02/) · [Key figures on my website](https://levynska-i-ds.github.io/projekt-event-dashboard.html)
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Interactive dashboard analyzing attendance, trends, and key event KPIs.
 ### Movie Recommendation System – ML
 Content-based and collaborative filtering recommendation system.  
 **Tech:** Python, Scikit-Learn, Pandas  
-**Link:** [Project repository](#)
+**Link:** [MovieLens_Movie_Recommendation_System](https://github.com/Levynska-I-DS/MovieLens_Movie_Recommendation_System)
 
 </td>
 </tr>

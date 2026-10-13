@@ -25,7 +25,7 @@ Ein ehrenamtlich organisierter Familienverein veranstaltet monatliche Feste für
 
 - **Die Erinnerung wirkt:** Bei drei der letzten vier Feste kam fast die Hälfte der Anmeldungen (45–55 %) erst nach der WhatsApp-Erinnerung.
 - **Spätanmeldungen einplanen:** 13 % melden sich nach Anmeldeschluss an, beim Kürbis-Festival 21 %.
-- **Ziel erreicht – Mitglieder kommen wieder:** 89 % der angemeldeten Personen sind Vereinsmitglieder; ab dem zweiten Fest sind 77 % wiederkehrende Personen. Neue Familien machen nur 23 % aus – für Wachstum bräuchte es eigene Werbung.
+- **Ziel erreicht – Mitglieder werden aktiv, und es kommen neue dazu:** 89 % der angemeldeten Personen sind Vereinsmitglieder. Bei jedem Fest nach dem ersten melden sich neue Personen an (insgesamt 80, zwischen 3 und 23 pro Fest) – die Mundpropaganda wirkt. Dass nicht immer dieselben kommen, ist gewollt: Ziel ist, dass möglichst viele Mitglieder überhaupt teilnehmen.
 - **Budget mit Spielraum:** rund 2,83 € pro angemeldeter Person; größter Posten sind Helfer-Honorare (47 %).
 
 ---

@@ -32,9 +32,13 @@ Ein ehrenamtlich organisierter Familienclub veranstaltet monatliche Feste für F
 
 | Seite | Inhalt |
 |---|---|
-| **Übersicht** | Kennzahlen, Anmeldeverlauf, Altersgruppen der Kinder, kostenloser/kostenpflichtiger Eintritt |
-| **Veranstaltungs- & Kostenanalyse** | Neue Personen, Budget vs. Ausgaben, Ausgaben nach Kategorie (inkl. Helfer-Honorare) |
-| **Werbungsanalyse** | Anmeldungen je Werbephase, Zeitstrahl mit Ankündigung, Erinnerung und Anmeldeschluss |
+| **Übersicht** | Kennzahlen, Anmeldungen pro Tag (Erwachsene/Kinder), Altersgruppen der Kinder, Anteil Vereinsmitglieder |
+| **Veranstaltungs- & Kostenanalyse** | Budget, Ausgaben und Restbudget, Ausgaben nach Kategorie (inkl. Helfer-Honorare), neue vs. wiederkehrende Personen, Ausgaben je Veranstaltung im Vergleich zum Budget |
+| **Werbungsanalyse** | Anteil der Anmeldungen je Werbephase, Zeitstrahl mit Ankündigung, Erinnerung und Anmeldeschluss, Vergleich aller Veranstaltungen |
+
+Auf jeder Seite lässt sich eine Veranstaltung auswählen; Kennzahlen, Diagramme und die Ankündigung passen sich an.
+
+📁 Power-BI-Datei: [Sonnenschein_Demo.pbix](Sonnenschein_Demo.pbix) (verbunden mit der anonymisierten Demo-Datenbank; zum Öffnen Power BI Desktop)
 
 ![Übersicht](../images/screenshot1.png)
 ![Veranstaltungs- & Kostenanalyse](../images/screenshot2.png)

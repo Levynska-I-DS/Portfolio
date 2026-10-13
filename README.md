@@ -80,6 +80,25 @@ Registrations, effect of reminders and budget for seven club events (anonymised 
 
 ---
 
+<!-- Project 3 -->
+<table>
+<tr>
+<td width="200">
+  <img src="images/flug_screenshot1.png" width="180" alt="Analyse unpünktlicher Flüge"/>
+</td>
+<td>
+
+### Flight Delay Analysis at Los Angeles Airport – Power BI & SQL
+Final project of the Business Intelligence Specialist course (StackFuel, 2024): 1.26 million flights (2015–2017), key figures, airline ranking and time patterns of unpunctuality.  
+**Tech:** PostgreSQL, Power Query, Power BI, DAX  
+**Link:** [Project_03](Project_03/) · [Key figures on my website](https://levynska-i-ds.github.io/projekt-flugverspaetungen.html)
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- Project 2 -->
 <table>
 <tr>

@@ -1,6 +1,8 @@
 # Event-Analyse für einen Familienverein (Power BI)
 
-Ein ehrenamtlich organisierter Familienclub veranstaltet monatliche Feste für Familien mit Kindern. Das Dashboard beantwortet drei Fragen für das Organisationsteam:
+Ein ehrenamtlich organisierter Familienverein veranstaltet monatliche Feste für Familien mit Kindern.
+
+**Ziel der Feste:** die Vereinsmitglieder aktivieren, damit sie regelmäßig an Angeboten des Vereins teilnehmen. Das Dashboard prüft, ob das gelingt, und beantwortet drei Fragen für das Organisationsteam:
 
 1. **Wie viele Familien melden sich an** – und wie setzen sie sich zusammen (Erwachsene, Kinder, Altersgruppen, neue Familien)?
 2. **Wann melden sie sich an** – nach der ersten Ankündigung, nach der WhatsApp-Erinnerung oder erst nach Anmeldeschluss?
@@ -23,7 +25,7 @@ Ein ehrenamtlich organisierter Familienclub veranstaltet monatliche Feste für F
 
 - **Die Erinnerung wirkt:** Bei drei der letzten vier Feste kam fast die Hälfte der Anmeldungen (45–55 %) erst nach der WhatsApp-Erinnerung.
 - **Spätanmeldungen einplanen:** 13 % melden sich nach Anmeldeschluss an, beim Kürbis-Festival 21 %.
-- **Stammpublikum:** Nach dem ersten Fest stammen nur 23 % der Anmeldungen von neuen Familien.
+- **Ziel erreicht – Mitglieder kommen wieder:** 89 % der angemeldeten Personen sind Vereinsmitglieder; ab dem zweiten Fest sind 77 % wiederkehrende Personen. Neue Familien machen nur 23 % aus – für Wachstum bräuchte es eigene Werbung.
 - **Budget mit Spielraum:** rund 2,83 € pro angemeldeter Person; größter Posten sind Helfer-Honorare (47 %).
 
 ---

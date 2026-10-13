@@ -46,7 +46,6 @@ Auf jeder Seite lässt sich eine Veranstaltung auswählen; Kennzahlen, Diagramme
 ![Veranstaltungs- & Kostenanalyse](../images/screenshot2.png)
 ![Werbungsanalyse](../images/screenshot3.png)
 
-🎬 [Demo-Video](video.mp4)
 
 ---
 
@@ -56,8 +55,8 @@ Auf jeder Seite lässt sich eine Veranstaltung auswählen; Kennzahlen, Diagramme
 
 **Datenmodell (Stern-Schema)**
 
-- Fakten: `F_Anmeldungen`, `F_Anmeldungen_Kinder`, `F_Werbung`, `F_Expenses`, `F_Helpers`, `F_BudgetLimits`
-- Dimensionen: `D_Veranstaltung`, `D_Datum`, `D_Erwachsene`, `D_Kinder`, `D_Werbekanal`, `D_BudgetKategorie`
+- Fakten: `F_Anmeldungen`, `F_Anmeldungen_Kinder`, `F_Werbung`, `F_Expenses`, `F_Helpers`
+- Dimensionen: `D_Veranstaltung`, `D_Datum`, `D_Erwachsene`, `D_Kinder`, `D_Madrichim` (Helfer), `D_Mitgliedschaft`, `D_Werbekanal`
 - Berechnete Tabelle `Ausgaben_alle` (Belege + Helfer-Honorare), damit Kategorie-Diagramm und Gesamtausgaben übereinstimmen
 
 **Ausgewählte DAX-Logik**

@@ -107,10 +107,10 @@ Final project of the Business Intelligence Specialist course (StackFuel, 2024): 
 </td>
 <td>
 
-### Movie Recommendation System – ML
-Content-based and collaborative filtering recommendation system.  
-**Tech:** Python, Scikit-Learn, Pandas  
-**Link:** [MovieLens_Movie_Recommendation_System](https://github.com/Levynska-I-DS/MovieLens_Movie_Recommendation_System)
+### Movie Recommendations with MovieLens – Team project 2024
+Recommendation system "people who liked this movie also liked …": data preparation and exploratory analysis, model comparison (SVD, NMF, BaselineOnly), enrichment via the TMDB API. My part: notebooks 1–4. The project page shows a demo of the trained SVD model.  
+**Tech:** Python, pandas, scikit-surprise, TMDB API  
+**Link:** [Notebooks on GitHub](https://github.com/Levynska-I-DS/MovieLens_Movie_Recommendation_System) · [Project page with demo](https://levynska-i-ds.github.io/projekt-filmempfehlungen.html)
 
 </td>
 </tr>

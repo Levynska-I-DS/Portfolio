@@ -1,6 +1,6 @@
 # Event-Analyse für einen Familienverein (Power BI)
 
-Ein ehrenamtlich organisierter Familienverein veranstaltet monatliche Feste für Familien mit Kindern.
+Ein Familienverein veranstaltet monatliche Feste für Familien mit Kindern.
 
 **Ziel der Feste:** die Vereinsmitglieder aktivieren, damit sie regelmäßig an Angeboten des Vereins teilnehmen. Das Dashboard prüft, ob das gelingt, und beantwortet drei Fragen für das Organisationsteam:
 
